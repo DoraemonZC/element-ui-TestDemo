@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkschool_management_system"]=self["webpackChunkschool_management_system"]||[]).push([[688],{4688:function(n,e,t){t.r(e),t.d(e,{default:function(){return _}});var s=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("欢迎使用学校事务后台管理系统！！！")])])}],l={},r=l,c=t(1001),a=(0,c.Z)(r,s,u,!1,null,null,null),_=a.exports}}]);
+//# sourceMappingURL=688.8bcad1cc.js.map
