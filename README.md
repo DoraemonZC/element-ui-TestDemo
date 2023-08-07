@@ -1,4 +1,3 @@
-![屏幕截图 2023-08-07 191419](https://github.com/DoraemonZC/element-ui-TestDemo/assets/140889301/ee6e320a-35e1-4e7d-9f23-53ace812665c)# 关于element-ui-TestDemo
 这是个人创作的一个简易学校学生教师信息后台管理系统，所有数据均由mockjs生成
 # 技术栈
 使用了Vue2 + Element-ui + Axios + Vue-router 
